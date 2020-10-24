@@ -1,0 +1,217 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "0584e1b0-1654-11eb-a785-acde48001122",
+    "deck_config_uuid": "0584e584-1654-11eb-a785-acde48001122",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "0584e584-1654-11eb-a785-acde48001122",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-37f8105cbc1faf256e71a3b3e4535b286dcdbeb0.jpg",
+        "paste-4edb6f1a71bacaaffc9fe81522ee9eaf1c8d2ad3.jpg",
+        "paste-ae1d6c16a811a74bf140d02b1679748a3c6decbf.jpg"
+    ],
+    "name": "animal-restaurant-promotions",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.translation {\nmargin-top: 16px;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Image",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Simplified",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Pinyin",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Meaning",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Simplified Sentence",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Pinyin Sentence",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Meaning Sentence",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic-19625",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Simplified}}\n<br/>\n{{Pinyin}}\n<br/>\n<div class=\"translation\">{{Meaning}}</div>\n\n<div class=\"sentences\">\n{{Simplified Sentence}}\n<br/>\n{{Pinyin Sentence}}\n<br/>\n{{Meaning Sentence}}\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Simplified}}<br/>\n{{Image}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-37f8105cbc1faf256e71a3b3e4535b286dcdbeb0.jpg\"><a href=\"https://photos.google.com/share/AF1QipO0jCaPHfD-R59IyLNHfXqzj0j_oNG12kijGkaBWGCCXFdKGx8RBPZl7-Qu17-LkQ/photo/AF1QipP3s1RI8y6lk6xoUXAu3TVjUkhz25VQN17D6W5H\"><div><div></div><div></div></div></a>",
+                "免费领取",
+                "miǎnfèi lǐngqǔ",
+                "free draw",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fD+c`g]vt@",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-37f8105cbc1faf256e71a3b3e4535b286dcdbeb0.jpg\">",
+                "免费",
+                "miǎnfèi",
+                "free",
+                "免费领取",
+                "miǎnfèilǐngqǔ",
+                "free draw"
+            ],
+            "guid": "E:rfhCX-8o",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-ae1d6c16a811a74bf140d02b1679748a3c6decbf.jpg\">",
+                "超值",
+                "chāozhí",
+                "extra value",
+                "超值礼包",
+                "chāozhí lǐbāo",
+                "extra value gift pack"
+            ],
+            "guid": "K,5jb>J>+d",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-4edb6f1a71bacaaffc9fe81522ee9eaf1c8d2ad3.jpg\">",
+                "豪华",
+                "háohuá",
+                "luxurious; sumptuous; splendid",
+                "豪华礼包",
+                "háohuá lǐbāo",
+                "luxury gift pack"
+            ],
+            "guid": "fS,)h4>7YT",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        }
+    ]
+}
