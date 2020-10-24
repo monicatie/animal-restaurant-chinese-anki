@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "b174d6f6-164a-11eb-8139-acde48001122",
-    "deck_config_uuid": "b174dd86-164a-11eb-8139-acde48001122",
+    "crowdanki_uuid": "9446c66a-164b-11eb-8139-acde48001122",
+    "deck_config_uuid": "9446cc3c-164b-11eb-8139-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "b174dd86-164a-11eb-8139-acde48001122",
+            "crowdanki_uuid": "9446cc3c-164b-11eb-8139-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -117,7 +117,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.translation {\nmargin-top: 16px;\n}",
             "flds": [
                 {
                     "font": "Arial",
@@ -170,7 +170,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Pinyin}}\n<br/>\n{{Meaning}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Simplified}}\n<br/>\n{{Pinyin}}\n<br/>\n<div class=\"translation\">{{Meaning}}</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -178,7 +178,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Simplified}}\n{{Image}}"
+                    "qfmt": "{{Simplified}}<br/>\n{{Image}}"
                 }
             ],
             "type": 0
