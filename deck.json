@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "102e7394-1639-11eb-9150-acde48001122",
-    "deck_config_uuid": "102e7880-1639-11eb-9150-acde48001122",
+    "crowdanki_uuid": "b174d6f6-164a-11eb-8139-acde48001122",
+    "deck_config_uuid": "b174dd86-164a-11eb-8139-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "102e7880-1639-11eb-9150-acde48001122",
+            "crowdanki_uuid": "b174dd86-164a-11eb-8139-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -112,11 +112,11 @@
         "paste-fc809e6b84cf4984089e9faa981da18345d83141.jpg",
         "paste-ffb4f245ffb6d4a44047d0cf571169501864f010.jpg"
     ],
-    "name": "Animal Restaurant Chinese",
+    "name": "animal-restaurant-chinese-anki",
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "crowdanki_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
                 {
@@ -194,7 +194,7 @@
                 "Pug<br>"
             ],
             "guid": "rrf/U+!fv}",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -202,11 +202,11 @@
             "fields": [
                 "<img src=\"paste-167ef01d3c5a317b6625dc65c5a00f8740f0be0c.jpg\">",
                 "富二代",
-                "fuerdai",
-                ""
+                "fù'èrdài",
+                "children of entrepreneurs who became wealthy under Deng Xiaoping's economic reforms in the 1980s"
             ],
             "guid": "Ia!B8O3=16",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -214,35 +214,35 @@
             "fields": [
                 "<img src=\"paste-979afe415973c4e13bb4d078c441d7515b570048.jpg\">",
                 "鹿",
-                "",
+                "lù",
                 "deer"
             ],
             "guid": "bmR,RmLZjI",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-937c34f476864f11405edd6b412cc51922d312a9.jpg\">",
-                "",
-                "",
-                ""
+                "广澳推销员",
+                "guǎnggào tuīxiāoyuán",
+                "commercial salesman"
             ],
             "guid": "rZjuqSm4YZ",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-11820a647dd7d83245d0f542e4fd1ec740611fc9.jpg\">",
-                "",
-                "",
-                ""
+                "獾",
+                "huān",
+                "badger"
             ],
             "guid": "P&{f3;)[i7",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -250,11 +250,11 @@
             "fields": [
                 "<img src=\"paste-3a8f4d315c45e90875d95c3d6eb28b9e9e6d874d.jpg\">",
                 "老鼠",
-                "",
+                "lǎoshǔ",
                 "mouse"
             ],
             "guid": "wU}ETASg[D",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -266,103 +266,103 @@
                 "white rabbit"
             ],
             "guid": "z`e94Xueqe",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-6943048523bf08cf476dff7f308fbcfa4fa54bdc.jpg\">",
-                "",
-                "",
-                ""
+                "刀疤熊",
+                "dāobā xióng",
+                "scar(red by knife) bear"
             ],
             "guid": "jN7)9aJtGc",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-6c5b8fe18405122ae3f8fa6884a6b5570f988775.jpg\">",
-                "",
-                "",
-                ""
+                "棕色兔子",
+                "zōngsè tùzi",
+                "brown rabbit"
             ],
             "guid": "c?`0S;2Xgj",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-230258a9c1d158cf8f59fa8482e4f134aa3d2f76.jpg\">",
-                "",
-                "",
-                ""
+                "画家獾",
+                "huàjiāhuān",
+                "artist badger"
             ],
             "guid": "u)W_G^(jl.",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-ffb4f245ffb6d4a44047d0cf571169501864f010.jpg\">",
-                "",
-                "",
-                ""
+                "梅花鹿",
+                "méihuālù",
+                "sika (spotted deer)"
             ],
             "guid": "xa:$/WxaLU",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-4c5b248efd2e97a0c38da8a138b1166fe88ae091.jpg\">",
-                "",
-                "",
-                ""
+                "斑纹黄豺狼",
+                "bānwén huáng cháiláng",
+                "striped yellow jackal"
             ],
             "guid": "H/_E1u4ZO#",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-4426481fb26572473c757acb0fcdebe96235700b.jpg\">",
-                "",
-                "",
-                ""
+                "刺猬",
+                "cìwei",
+                "hedgehog"
             ],
             "guid": "NZaCStjDc@",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-5210161e9a12990acc340fa7fdee6bdbc7ba2385.jpg\">",
-                "",
-                "",
-                ""
+                "绵羊",
+                "miányáng",
+                "sheep"
             ],
             "guid": "Ocsxt^|a#3",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-a80b3c20cfa041b314f50c5700ef106132899a7f.jpg\">",
-                "",
-                "",
-                ""
+                "黄豺狼",
+                "huángcháiláng",
+                "yellow jackal"
             ],
             "guid": "*5A%;Fp^y",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -370,83 +370,83 @@
             "fields": [
                 "<img src=\"paste-36f992ca83e968e415677c8e03a01c51f51ca4d7.jpg\">",
                 "狼",
-                "lang",
+                "láng",
                 "wolf"
             ],
             "guid": "G})W~hgyfG",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-8fe49c26fe6a7ba7e90c17fd9678524462f71879.jpg\">",
-                "",
-                "",
-                ""
+                "臭鼬",
+                "chòuyòu",
+                "skunk"
             ],
             "guid": "C|.Sj`a`G.",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-5486571824482d1b394fcd3d478967682695aadd.jpg\">",
-                "",
-                "",
-                ""
+                "狼外婆",
+                "lángwàipó",
+                "wolf's grandmother"
             ],
             "guid": "vSSx[6_]Pb",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-aa71fd2b5697ad8ab5e01eb13db4657aef0fe3f0.jpg\">",
-                "",
-                "",
-                ""
+                "伤疤熊",
+                "shāngbāxióng",
+                "scarred bear"
             ],
             "guid": "guumj[a5ji",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-cdebbcdbf352c64e85c53f454f6d553eb47f749a.jpg\">",
-                "",
-                "",
-                ""
+                "边境牧羊犬",
+                "biānjìng mùyángquǎn",
+                "border collie"
             ],
             "guid": "MlgmZInaL!",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-41177d6580f32c28f93078e6d189a35eaaf5c5f2.jpg\">",
-                "",
-                "",
-                ""
+                "棕色狼",
+                "zōngsè láng",
+                "brown wolf"
             ],
             "guid": "l9X2].VX.0",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-ca6c3192be9c0ca851ab6e2a0b859bd372c57a85.jpg\">",
-                "",
-                "",
-                ""
+                "借鱼干的兔子",
+                "jièyúgān de tùzi",
+                "fish \"borrowing\" rabbit"
             ],
             "guid": "NFg<g_H]:l",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -454,11 +454,11 @@
             "fields": [
                 "<img src=\"paste-67a812d86e659f3b1976fd27e973272848367dc4.jpg\">",
                 "大白鹅",
-                "",
+                "dàbáié",
                 "large white goose"
             ],
             "guid": "x2E)W/x`OJ",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -466,83 +466,83 @@
             "fields": [
                 "<img src=\"paste-23ede76fa6e7585bfece111f11fdd5bff844cc40.jpg\">",
                 "客人",
-                "",
-                "guests"
+                "kèren (kèrén)",
+                "visitor; guest"
             ],
             "guid": "Mq_ImD}3]A",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-7302ac53c876e05df453a9751a3f4ce28463a9b8.jpg\">",
-                "",
-                "",
-                ""
+                "蓝莓刺猬",
+                "lánméi cìwei",
+                "blueberry hedgehog"
             ],
             "guid": "b|8EZ@DmQ-",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-ef4b603410c35d03f47d752ad558a44bce611d2a.jpg\">",
-                "",
-                "",
-                ""
+                "条纹豺狼",
+                "tiáowén cháiláng",
+                "striped jackal"
             ],
             "guid": "n(YCV4iP_*",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-f85cc728597278af5179c96e22d4ad19f46294db.jpg\">",
-                "",
-                "",
-                ""
+                "祈福的萨摩耶",
+                "qífú de Sàmóyé",
+                "Lucky Samoyed"
             ],
             "guid": "z-c7|J*{1.",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-77c7df7f0521e090c66e6be72a7065400ecd99a7.jpg\">",
-                "",
-                "",
-                ""
+                "穷酸蛤蟆",
+                "qióngsuān háma",
+                "poor and pedantic toad"
             ],
             "guid": "mq-a),jn`$",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-f7bb2ff5a33f547122226cff1db950450e4c44fb.jpg\">",
-                "",
-                "",
-                ""
+                "魔术师坏鼠",
+                "móshùshī huài shǔ",
+                "evil magician mouse (not sure what the 坏 means here)"
             ],
             "guid": "b*[8</fM_h",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-c2a1d7151494158ff706c37c68a3df70e89349b3.jpg\">",
-                "",
-                "",
-                ""
+                "独眼蝴蝶犬",
+                "dúyǎn húdiéquǎn",
+                "one-eyed papillon (lapdog)"
             ],
             "guid": "p3:2uURlmy",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -554,127 +554,127 @@
                 "fox"
             ],
             "guid": "E{#VPr9##H",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-f920f0eb4d594b67dd8240989329ff61d802f782.jpg\">",
-                "",
-                "",
-                ""
+                "重耳兔",
+                "zhòngěrtù",
+                "lop-eared rabbit"
             ],
             "guid": "Ke2V#NE!iD",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-9e15f2c7dcd173ff91eac3353a55d175c4d18c7c.jpg\">",
-                "",
-                "",
-                ""
+                "水獭",
+                "shuǐtǎ",
+                "otter"
             ],
             "guid": "FJLc*^.{KT",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-d20926829d72d3cac9378e2ced39ff3d3af3c9c1.jpg\">",
-                "",
-                "",
-                ""
+                "浣熊",
+                "huànxióng",
+                "racoon"
             ],
             "guid": "I#7om<?Y:X",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-4bffb1376de8e1900832023fefaf707f1027e39c.jpg\">",
-                "",
-                "",
-                ""
+                "秃绵羊",
+                "tūmiányáng",
+                "bald sheep"
             ],
             "guid": "sz~*7j#ZfJ",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-92f97e66fe27230a54134e1fb17f867a549b0497.jpg\">",
-                "",
-                "",
-                ""
+                "法国斗牛犬",
+                "fǎguó dòuniúquǎn",
+                "French Bulldog"
             ],
             "guid": "zFf]u|zHVV",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-e4e7c72358325d43540212ef0054806ee90cfadf.jpg\">",
-                "",
-                "",
-                ""
+                "册儿",
+                "cèér",
+                "Cher"
             ],
             "guid": "efIRlyeSLA",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-43bdd05d559f7688f67e066252d5c3180e8c03f7.jpg\">",
-                "",
-                "",
-                ""
+                "仓鼠",
+                "cāngshǔ",
+                "hamster"
             ],
             "guid": "G=6zmdz~TJ",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-9b48dbc46b44286432e16dbd9448a4ff3ba248c4.jpg\">",
-                "",
-                "",
-                ""
+                "熊孩子妈妈",
+                "xióngháizi māma",
+                "brat's mom"
             ],
             "guid": "h=)D?$3d3?",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-34b4a1798055b0e51ab17b658d26b998bdc24a84.jpg\">",
-                "",
-                "",
-                ""
+                "野猪",
+                "yězhū",
+                "wild boar"
             ],
             "guid": "zOYZ(J*xw2",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-b94f445761831f53e2e3ba355145170b825625a0.jpg\">",
-                "",
-                "",
-                ""
+                "黑柴犬",
+                "hēicháiquǎn",
+                "black shiba"
             ],
             "guid": "QUPQl6t_@L",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -682,107 +682,107 @@
             "fields": [
                 "<img src=\"paste-4191bbdb8f9e8479ff6c450bab7d77e3d4238cfb.jpg\">",
                 "花猪",
-                "",
+                "huāzhū",
                 "patterned pig"
             ],
             "guid": "e?6#re-+(k",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-e667f0ddeb15c840e33b5ac2ef66e275eb24a036.jpg\">",
-                "",
-                "",
-                ""
+                "巧克力边境",
+                "qiǎokèlì biānjìng",
+                "chocolate border collie"
             ],
             "guid": "/FC~4VE6U",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-2ccb9ec4cbae86b1ddbc3acff9bdcedc5f02632a.jpg\">",
-                "",
-                "",
-                ""
+                "哈士奇",
+                "hāshìqí",
+                "husky (sled dog)"
             ],
             "guid": "sg]s!I_q8Q",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-af46038f83114165583bed1498e2990ea3a20155.jpg\">",
-                "",
-                "",
-                ""
+                "占卜师",
+                "zhānbǔshī",
+                "divination master"
             ],
             "guid": "qOOlBy.3HY",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-4307c2d666e62f69a7a6a0a54beb80b2c4958839.jpg\">",
-                "",
-                "",
-                ""
+                "柯基",
+                "kējī",
+                "corgi"
             ],
             "guid": "L;Tw+ocu,n",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-71a6d118310e054f8a660a9a4c31bf28494278e2.jpg\">",
-                "",
-                "",
-                ""
+                "陨石边牧",
+                "yǔnshí biānmù",
+                "\"meteorite\" border collie"
             ],
             "guid": "B%Ns_$u<h5",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-8f62b7b2b829992188b682b938b952f8336ec6fd.jpg\">",
-                "",
-                "",
-                ""
+                "八字法斗",
+                "bázì fǎdòu",
+                "Boston Terrier"
             ],
             "guid": "Q=RoH)tj6t",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-ac0f7c32add88bd92b74e3e7fe2213ea265069a8.jpg\">",
-                "",
-                "",
-                ""
+                "三花柯基",
+                "sānhuā kējī",
+                "three colored corgi"
             ],
             "guid": "n+Pg?I(Qgg",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-9711af46771dbdbae72502b47a8a8bf0061812ea.jpg\">",
-                "",
-                "",
-                ""
+                "古老牧羊犬",
+                "gǔlǎo mùyángquǎn",
+                "old sheep dog"
             ],
             "guid": "yYs<r@Et.{",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -790,71 +790,71 @@
             "fields": [
                 "<img src=\"paste-49095aab169ccfbefe97279b1c4b133a188e9cc5.jpg\">",
                 "猪",
-                "zhu",
+                "zhū",
                 "pig"
             ],
             "guid": "oc_PD`*[-a",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-4b96b88e969aa460823caed6247330ed97a625c2.jpg\">",
-                "",
-                "",
-                ""
+                "企鹅",
+                "qǐ'é",
+                "penguin"
             ],
             "guid": "yhywoF.n2I",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-ccc90231c4b8050f0093be78191a701957144c80.jpg\">",
-                "",
-                "",
-                ""
+                "猞狸",
+                "shēlì",
+                "lynx"
             ],
             "guid": "jzJ6zqtp!!",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-65473051a67996a63834a00ea80c8ed9b31b8d4e.jpg\">",
-                "",
-                "",
-                ""
+                "神秘商人",
+                "shénmì shāngrén",
+                "mysterious/mystical merchant"
             ],
             "guid": "C(H72IDV0(",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-fc809e6b84cf4984089e9faa981da18345d83141.jpg\">",
-                "",
-                "",
-                ""
+                "上班狐狸",
+                "shàngbān húli",
+                "working fox"
             ],
             "guid": "AQse)ozxho",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-7f5e735c3e29b54666ca08b4e009e25d285c70d7.jpg\">",
-                "",
-                "",
-                ""
+                "阔耳狐",
+                "kuòěrhú",
+                "bat eared fox (literally: wide eared fox)"
             ],
             "guid": "d3:DQt<4Z!",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -866,19 +866,19 @@
                 "rescue dog"
             ],
             "guid": "vW:J1~bgC5",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-9916d40a6f2218e013e42436cc23a7690548b615.jpg\">",
-                "",
-                "",
-                ""
+                "腊肠犬",
+                "làchángquǎn",
+                "dachshund"
             ],
             "guid": "OxHF|em!+X",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         },
         {
@@ -890,7 +890,7 @@
                 ""
             ],
             "guid": "b5M.N4G$J,",
-            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         }
     ]
