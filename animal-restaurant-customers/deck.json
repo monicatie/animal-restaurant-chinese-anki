@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "765fe750-164e-11eb-8139-acde48001122",
-    "deck_config_uuid": "765feaca-164e-11eb-8139-acde48001122",
+    "crowdanki_uuid": "10f3663e-1654-11eb-a785-acde48001122",
+    "deck_config_uuid": "10f369e0-1654-11eb-a785-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "765feaca-164e-11eb-8139-acde48001122",
+            "crowdanki_uuid": "10f369e0-1654-11eb-a785-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -112,7 +112,7 @@
         "paste-fc809e6b84cf4984089e9faa981da18345d83141.jpg",
         "paste-ffb4f245ffb6d4a44047d0cf571169501864f010.jpg"
     ],
-    "name": "animal-restaurant-chinese-anki",
+    "name": "animal-restaurant-customers",
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -179,7 +179,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-19625",
             "req": [
                 [
                     0,
@@ -194,7 +194,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Simplified}}\n<br/>\n{{Pinyin}}\n<br/>\n<div class=\"translation\">{{Meaning}}</div>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Simplified}}\n<br/>\n{{Pinyin}}\n<br/>\n<div class=\"translation\">{{Meaning}}</div>\n\n<div class=\"sentences\">\n{{Simplified Sentence}}\n<br/>\n{{Pinyin Sentence}}\n<br/>\n{{Meaning Sentence}}\n</div>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
