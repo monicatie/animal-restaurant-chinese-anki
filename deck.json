@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "aafa4da6-1636-11eb-9150-acde48001122",
-    "deck_config_uuid": "aafa56fc-1636-11eb-9150-acde48001122",
+    "crowdanki_uuid": "102e7394-1639-11eb-9150-acde48001122",
+    "deck_config_uuid": "102e7880-1639-11eb-9150-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "aafa56fc-1636-11eb-9150-acde48001122",
+            "crowdanki_uuid": "102e7880-1639-11eb-9150-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -116,7 +116,7 @@
     "note_models": [
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "crowdanki_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
             "flds": [
                 {
@@ -194,7 +194,7 @@
                 "Pug<br>"
             ],
             "guid": "rrf/U+!fv}",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -206,7 +206,7 @@
                 ""
             ],
             "guid": "Ia!B8O3=16",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -218,7 +218,7 @@
                 "deer"
             ],
             "guid": "bmR,RmLZjI",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -230,7 +230,7 @@
                 ""
             ],
             "guid": "rZjuqSm4YZ",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -242,7 +242,7 @@
                 ""
             ],
             "guid": "P&{f3;)[i7",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -254,7 +254,7 @@
                 "mouse"
             ],
             "guid": "wU}ETASg[D",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -266,7 +266,7 @@
                 "white rabbit"
             ],
             "guid": "z`e94Xueqe",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -278,7 +278,7 @@
                 ""
             ],
             "guid": "jN7)9aJtGc",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -290,7 +290,7 @@
                 ""
             ],
             "guid": "c?`0S;2Xgj",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -302,7 +302,7 @@
                 ""
             ],
             "guid": "u)W_G^(jl.",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -314,7 +314,7 @@
                 ""
             ],
             "guid": "xa:$/WxaLU",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -326,7 +326,7 @@
                 ""
             ],
             "guid": "H/_E1u4ZO#",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -338,7 +338,7 @@
                 ""
             ],
             "guid": "NZaCStjDc@",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -350,7 +350,7 @@
                 ""
             ],
             "guid": "Ocsxt^|a#3",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -362,7 +362,7 @@
                 ""
             ],
             "guid": "*5A%;Fp^y",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -374,7 +374,7 @@
                 "wolf"
             ],
             "guid": "G})W~hgyfG",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -386,7 +386,7 @@
                 ""
             ],
             "guid": "C|.Sj`a`G.",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -398,7 +398,7 @@
                 ""
             ],
             "guid": "vSSx[6_]Pb",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -410,7 +410,7 @@
                 ""
             ],
             "guid": "guumj[a5ji",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -422,7 +422,7 @@
                 ""
             ],
             "guid": "MlgmZInaL!",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -434,7 +434,7 @@
                 ""
             ],
             "guid": "l9X2].VX.0",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -446,7 +446,7 @@
                 ""
             ],
             "guid": "NFg<g_H]:l",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -458,7 +458,7 @@
                 "large white goose"
             ],
             "guid": "x2E)W/x`OJ",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -470,7 +470,7 @@
                 "guests"
             ],
             "guid": "Mq_ImD}3]A",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -482,7 +482,7 @@
                 ""
             ],
             "guid": "b|8EZ@DmQ-",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -494,7 +494,7 @@
                 ""
             ],
             "guid": "n(YCV4iP_*",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -506,7 +506,7 @@
                 ""
             ],
             "guid": "z-c7|J*{1.",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -518,7 +518,7 @@
                 ""
             ],
             "guid": "mq-a),jn`$",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -530,7 +530,7 @@
                 ""
             ],
             "guid": "b*[8</fM_h",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -542,19 +542,19 @@
                 ""
             ],
             "guid": "p3:2uURlmy",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
             "__type__": "Note",
             "fields": [
                 "<img src=\"paste-0d55127c487ef0d6b750894cafac600eefe9852e.jpg\">",
-                "",
-                "",
-                ""
+                "狐狸",
+                "húli",
+                "fox"
             ],
             "guid": "E{#VPr9##H",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -566,7 +566,7 @@
                 ""
             ],
             "guid": "Ke2V#NE!iD",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -578,7 +578,7 @@
                 ""
             ],
             "guid": "FJLc*^.{KT",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -590,7 +590,7 @@
                 ""
             ],
             "guid": "I#7om<?Y:X",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -602,7 +602,7 @@
                 ""
             ],
             "guid": "sz~*7j#ZfJ",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -614,7 +614,7 @@
                 ""
             ],
             "guid": "zFf]u|zHVV",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -626,7 +626,7 @@
                 ""
             ],
             "guid": "efIRlyeSLA",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -638,7 +638,7 @@
                 ""
             ],
             "guid": "G=6zmdz~TJ",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -650,7 +650,7 @@
                 ""
             ],
             "guid": "h=)D?$3d3?",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -662,7 +662,7 @@
                 ""
             ],
             "guid": "zOYZ(J*xw2",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -674,7 +674,7 @@
                 ""
             ],
             "guid": "QUPQl6t_@L",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -686,7 +686,7 @@
                 "patterned pig"
             ],
             "guid": "e?6#re-+(k",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -698,7 +698,7 @@
                 ""
             ],
             "guid": "/FC~4VE6U",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -710,7 +710,7 @@
                 ""
             ],
             "guid": "sg]s!I_q8Q",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -722,7 +722,7 @@
                 ""
             ],
             "guid": "qOOlBy.3HY",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -734,7 +734,7 @@
                 ""
             ],
             "guid": "L;Tw+ocu,n",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -746,7 +746,7 @@
                 ""
             ],
             "guid": "B%Ns_$u<h5",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -758,7 +758,7 @@
                 ""
             ],
             "guid": "Q=RoH)tj6t",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -770,7 +770,7 @@
                 ""
             ],
             "guid": "n+Pg?I(Qgg",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -782,7 +782,7 @@
                 ""
             ],
             "guid": "yYs<r@Et.{",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -794,7 +794,7 @@
                 "pig"
             ],
             "guid": "oc_PD`*[-a",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -806,7 +806,7 @@
                 ""
             ],
             "guid": "yhywoF.n2I",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -818,7 +818,7 @@
                 ""
             ],
             "guid": "jzJ6zqtp!!",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -830,7 +830,7 @@
                 ""
             ],
             "guid": "C(H72IDV0(",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -842,7 +842,7 @@
                 ""
             ],
             "guid": "AQse)ozxho",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -854,7 +854,7 @@
                 ""
             ],
             "guid": "d3:DQt<4Z!",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -866,7 +866,7 @@
                 ""
             ],
             "guid": "vW:J1~bgC5",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -878,7 +878,7 @@
                 ""
             ],
             "guid": "OxHF|em!+X",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         },
         {
@@ -890,7 +890,7 @@
                 ""
             ],
             "guid": "b5M.N4G$J,",
-            "note_model_uuid": "aafa7bf0-1636-11eb-9150-acde48001122",
+            "note_model_uuid": "102e96d0-1639-11eb-9150-acde48001122",
             "tags": []
         }
     ]
