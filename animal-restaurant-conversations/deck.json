@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "80ad9050-1675-11eb-bff9-acde48001122",
-    "deck_config_uuid": "80ad941a-1675-11eb-bff9-acde48001122",
+    "crowdanki_uuid": "b1362a44-170a-11eb-9ec7-acde48001122",
+    "deck_config_uuid": "b1363016-170a-11eb-9ec7-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "80ad941a-1675-11eb-bff9-acde48001122",
+            "crowdanki_uuid": "b1363016-170a-11eb-9ec7-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -53,8 +53,14 @@
     "extendRev": 0,
     "media_files": [
         "paste-053b618a5a053bdbd676e530c9474c23816e8728.jpg",
+        "paste-0f494008b49640555d85751d4b6d4fcdc07c69d5.jpg",
+        "paste-2b862ba2c2514b7fdc2bde8fcdec4eeaeb171076.jpg",
+        "paste-32ab897e15cfc336e63cfa2e44ac0187ebae3f61.jpg",
+        "paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg",
+        "paste-775821f77fd8b0f10044c6f56e572960cf271a42.jpg",
         "paste-93e058946636ff506e4e7e740125705ebcc07819.jpg",
-        "paste-a61165b3d70d72c0e1763745ddcfe9b1de219bbb.jpg"
+        "paste-a61165b3d70d72c0e1763745ddcfe9b1de219bbb.jpg",
+        "paste-adb1fc9a4b3207199a1df90b6df06821f0fda03f.jpg"
     ],
     "name": "animal-restaurant-conversations",
     "note_models": [
@@ -209,6 +215,182 @@
                 ""
             ],
             "guid": "u,-(+>O|,R",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-32ab897e15cfc336e63cfa2e44ac0187ebae3f61.jpg\">",
+                "聚会",
+                "jùhuì",
+                "get together",
+                "请问你们的自助餐厅还有位置吗？我想和我的朋友们在你们这里聚个会",
+                "qǐngwèn nǐmen de zìzhù cāntīng hái yǒu wèizhì ma? Wǒ xiǎng hé wǒ de péngyǒumen zài nǐmen zhèlǐ jù gè huì",
+                "Does your buffet still have seating? I want to have a get together with my friends here",
+                ""
+            ],
+            "guid": "N/89o2/M/Y",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-0f494008b49640555d85751d4b6d4fcdc07c69d5.jpg\">",
+                "太矮了",
+                "tài ǎile",
+                "too short",
+                "火烈鸟<div>其他店的桌子都太矮了，我们吃饭好累啊，如果你们这里的桌子高度合适，我们下次就都在你们这里吃～</div>",
+                "Huǒ liè niǎo<br>Qítā diàn de zhuōzi dōu tài ǎile, wǒmen chīfàn hǎo lèi a, rúguǒ nǐmen zhèlǐ de zhuōzi gāodù héshì, wǒmen xià cì jiù dōu zài nǐmen zhèlǐ chī ~",
+                "Flamingo<br>The tables in other stores are too short. We are so tired from eating. If your table height is suitable, we will eat here next time~",
+                ""
+            ],
+            "guid": "by(zJPDm!b",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-2b862ba2c2514b7fdc2bde8fcdec4eeaeb171076.jpg\">",
+                "好在",
+                "hǎozài",
+                "fortunately; luckily",
+                "<div>火烈鸟</div><div>桌子还有点矮，不过好在饭都好好吃哦～</div>",
+                "<div>Huǒ liè niǎo</div><div>Zhuō zǐ huán yǒudiǎn ǎi, bùguò hǎozài fàn dōu hǎo hào chī ó ~<br></div>",
+                "Flamingo<div>The table is still a bit short, but fortunately the food is delicious~<br></div>",
+                ""
+            ],
+            "guid": "FCPNM5KlcG",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-775821f77fd8b0f10044c6f56e572960cf271a42.jpg\">",
+                "猜",
+                "cāi",
+                "guess; conjecture; speculate",
+                "我们来玩个猜数字的游戏吧，谁猜的数字比较大就谁赢",
+                "Wǒmen lái wán gè cāi shùzì de yóuxì ba, shéi cāi de shùzì bǐjiào dà jiù shéi yíng",
+                "Let’s play a game of guessing numbers, whoever guesses the bigger number wins",
+                ""
+            ],
+            "guid": "cUAe-1,dhy",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-adb1fc9a4b3207199a1df90b6df06821f0fda03f.jpg\">",
+                "获得",
+                "Huòdé",
+                "gain; acquire; obtain; win; achieve",
+                "你要是赢了我，就可以获得33个星星的奖励，从接下来的三张卡片里挑选一张就好了。",
+                "Nǐ yàoshi yíngle wǒ, jiù kěyǐ huòdé 33 gè xīngxīng de jiǎnglì, cóng jiē xiàlái de sān zhāng kǎpiàn lǐ tiāoxuǎn yī zhāng jiù hǎole.",
+                "<div><div><div>If you win against me, you will be rewarded with 33 stars. Just choose one of the next three cards.</div></div></div>",
+                ""
+            ],
+            "guid": "zHk!==?nyV",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
+                "轻松",
+                "qīngsōng",
+                "relaxed; light",
+                "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
+                "Yīcì qīngsōng ér yōuyǎ de shènglì, wǒ de dú xīnshù shì bùshì hěn lìhài? Xià cì zàijiàn",
+                "A relaxed and elegant victory, isn't my mind-reading skill so impressive? see you next time",
+                ""
+            ],
+            "guid": "Obng6$E-tb",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
+                "而",
+                "ér",
+                "as well as; and",
+                "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
+                "<div><div>Yīcì qīngsōng ér yōuyǎ de shènglì, wǒ de dú xīnshù shì bùshì hěn lìhài? Xià cì zàijiàn</div><div><div></div><div></div><div></div><div></div><div></div></div></div><div></div>",
+                "A relaxed and elegant victory, isn't my mind-reading skill so impressive? see you next time",
+                ""
+            ],
+            "guid": "L;Qeo;inq:",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
+                "优雅",
+                "yōuyǎ",
+                "graceful; elegant; in good taste",
+                "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
+                "<div><div>Yīcì qīngsōng ér yōuyǎ de shènglì, wǒ de dú xīnshù shì bùshì hěn lìhài? Xià cì zàijiàn</div><div><div></div><div></div><div></div><div></div><div></div></div></div><div></div>",
+                "A relaxed and elegant victory, isn't my mind-reading skill so impressive? see you next time",
+                ""
+            ],
+            "guid": "D+exPx7:i~",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
+                "胜利",
+                "shènglì",
+                "win (victory); succeed",
+                "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
+                "<div><div>Yīcì qīngsōng ér yōuyǎ de shènglì, wǒ de dú xīnshù shì bùshì hěn lìhài? Xià cì zàijiàn</div><div><div></div><div></div><div></div><div></div><div></div></div></div><div></div>",
+                "A relaxed and elegant victory, isn't my mind-reading skill so impressive? see you next time",
+                ""
+            ],
+            "guid": "z]~n%C<Vz`",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
+                "读心术",
+                "dúxīnshù",
+                "mind reading technique/ability",
+                "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
+                "<div><div>Yīcì qīngsōng ér yōuyǎ de shènglì, wǒ de dúxīnshù shì bùshì hěn lìhài? Xià cì zàijiàn</div><div><div></div><div></div><div></div><div></div><div></div></div></div><div></div>",
+                "A relaxed and elegant victory, isn't my mind-reading skill so impressive? see you next time",
+                ""
+            ],
+            "guid": "fb_|ijYwnG",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
+                "厉害",
+                "lìhài",
+                "great; impressive; awesome; amazing",
+                "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
+                "<div><div>Yīcì qīngsōng ér yōuyǎ de shènglì, wǒ de dú xīnshù shì bùshì hěn lìhài? Xià cì zàijiàn</div><div><div></div><div></div><div></div><div></div><div></div></div></div><div></div>",
+                "A relaxed and elegant victory, isn't my mind-reading skill so impressive? see you next time",
+                ""
+            ],
+            "guid": "elYa7okt`m",
             "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         }
