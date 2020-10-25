@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "b1362a44-170a-11eb-9ec7-acde48001122",
-    "deck_config_uuid": "b1363016-170a-11eb-9ec7-acde48001122",
+    "crowdanki_uuid": "0e751df8-171c-11eb-9ec7-acde48001122",
+    "deck_config_uuid": "0e752262-171c-11eb-9ec7-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "b1363016-170a-11eb-9ec7-acde48001122",
+            "crowdanki_uuid": "0e752262-171c-11eb-9ec7-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -70,16 +70,16 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.translation {\nmargin-top: 16px;\n}",
             "flds": [
                 {
-                    "font": "Liberation Sans",
-                    "name": "Image",
+                    "font": "Arial",
+                    "name": "Simplified",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
-                    "font": "Arial",
-                    "name": "Simplified",
+                    "font": "Al Bayan",
+                    "name": "Image",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -150,7 +150,7 @@
                     ]
                 ]
             ],
-            "sortf": 1,
+            "sortf": 0,
             "tags": [],
             "tmpls": [
                 {
@@ -173,8 +173,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-053b618a5a053bdbd676e530c9474c23816e8728.jpg\">",
                 "划算",
+                "<img src=\"paste-053b618a5a053bdbd676e530c9474c23816e8728.jpg\">",
                 "huásuàn",
                 "calculate; figure; plan",
                 "划算，好吃，下次还点你们家",
@@ -189,8 +189,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-93e058946636ff506e4e7e740125705ebcc07819.jpg\">",
                 "美味",
+                "<img src=\"paste-93e058946636ff506e4e7e740125705ebcc07819.jpg\">",
                 "měiwèi",
                 "delicious; dainty",
                 "狼<div>好久都没有这么开心了，你们的食物真的太美味啦！</div>",
@@ -205,8 +205,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-a61165b3d70d72c0e1763745ddcfe9b1de219bbb.jpg\"><a href=\"https://photos.google.com/share/AF1QipO0jCaPHfD-R59IyLNHfXqzj0j_oNG12kijGkaBWGCCXFdKGx8RBPZl7-Qu17-LkQ/photo/AF1QipPbiWxxv8AGwnfX7Re3evgjzD9Wqs8phfZpeRbL\"><div><div></div><div></div></div></a>",
                 "连续",
+                "<img src=\"paste-a61165b3d70d72c0e1763745ddcfe9b1de219bbb.jpg\"><a href=\"https://photos.google.com/share/AF1QipO0jCaPHfD-R59IyLNHfXqzj0j_oNG12kijGkaBWGCCXFdKGx8RBPZl7-Qu17-LkQ/photo/AF1QipPbiWxxv8AGwnfX7Re3evgjzD9Wqs8phfZpeRbL\"><div><div></div><div></div></div></a>",
                 "liánxù",
                 "continuously",
                 "喵，您已经连续在线超过一个小时，记得注意休息哦！<br>行吧",
@@ -221,8 +221,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-32ab897e15cfc336e63cfa2e44ac0187ebae3f61.jpg\">",
                 "聚会",
+                "<img src=\"paste-32ab897e15cfc336e63cfa2e44ac0187ebae3f61.jpg\">",
                 "jùhuì",
                 "get together",
                 "请问你们的自助餐厅还有位置吗？我想和我的朋友们在你们这里聚个会",
@@ -237,8 +237,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-0f494008b49640555d85751d4b6d4fcdc07c69d5.jpg\">",
                 "太矮了",
+                "<img src=\"paste-0f494008b49640555d85751d4b6d4fcdc07c69d5.jpg\">",
                 "tài ǎile",
                 "too short",
                 "火烈鸟<div>其他店的桌子都太矮了，我们吃饭好累啊，如果你们这里的桌子高度合适，我们下次就都在你们这里吃～</div>",
@@ -253,8 +253,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-2b862ba2c2514b7fdc2bde8fcdec4eeaeb171076.jpg\">",
                 "好在",
+                "<img src=\"paste-2b862ba2c2514b7fdc2bde8fcdec4eeaeb171076.jpg\">",
                 "hǎozài",
                 "fortunately; luckily",
                 "<div>火烈鸟</div><div>桌子还有点矮，不过好在饭都好好吃哦～</div>",
@@ -269,8 +269,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-775821f77fd8b0f10044c6f56e572960cf271a42.jpg\">",
                 "猜",
+                "<img src=\"paste-775821f77fd8b0f10044c6f56e572960cf271a42.jpg\">",
                 "cāi",
                 "guess; conjecture; speculate",
                 "我们来玩个猜数字的游戏吧，谁猜的数字比较大就谁赢",
@@ -285,8 +285,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-adb1fc9a4b3207199a1df90b6df06821f0fda03f.jpg\">",
                 "获得",
+                "<img src=\"paste-adb1fc9a4b3207199a1df90b6df06821f0fda03f.jpg\">",
                 "Huòdé",
                 "gain; acquire; obtain; win; achieve",
                 "你要是赢了我，就可以获得33个星星的奖励，从接下来的三张卡片里挑选一张就好了。",
@@ -301,8 +301,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "轻松",
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "qīngsōng",
                 "relaxed; light",
                 "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
@@ -317,8 +317,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "而",
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "ér",
                 "as well as; and",
                 "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
@@ -333,8 +333,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "优雅",
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "yōuyǎ",
                 "graceful; elegant; in good taste",
                 "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
@@ -349,8 +349,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "胜利",
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "shènglì",
                 "win (victory); succeed",
                 "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
@@ -365,8 +365,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "读心术",
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "dúxīnshù",
                 "mind reading technique/ability",
                 "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",
@@ -381,8 +381,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "厉害",
+                "<img src=\"paste-51707d79264f3fca37eb0c6dca42a30010c0b29c.jpg\">",
                 "lìhài",
                 "great; impressive; awesome; amazing",
                 "一次轻松而优雅的胜利，我的读心术是不是很厉害？下次再见",

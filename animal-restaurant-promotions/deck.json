@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "a00930a6-1672-11eb-bff9-acde48001122",
-    "deck_config_uuid": "a00934ac-1672-11eb-bff9-acde48001122",
+    "crowdanki_uuid": "19953c36-171c-11eb-9ec7-acde48001122",
+    "deck_config_uuid": "19953fa6-171c-11eb-9ec7-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "a00934ac-1672-11eb-bff9-acde48001122",
+            "crowdanki_uuid": "19953fa6-171c-11eb-9ec7-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -64,16 +64,16 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.translation {\nmargin-top: 16px;\n}",
             "flds": [
                 {
-                    "font": "Liberation Sans",
-                    "name": "Image",
+                    "font": "Arial",
+                    "name": "Simplified",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
                     "sticky": false
                 },
                 {
-                    "font": "Arial",
-                    "name": "Simplified",
+                    "font": "Al Bayan",
+                    "name": "Image",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -144,7 +144,7 @@
                     ]
                 ]
             ],
-            "sortf": 1,
+            "sortf": 0,
             "tags": [],
             "tmpls": [
                 {
@@ -167,8 +167,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-37f8105cbc1faf256e71a3b3e4535b286dcdbeb0.jpg\"><a href=\"https://photos.google.com/share/AF1QipO0jCaPHfD-R59IyLNHfXqzj0j_oNG12kijGkaBWGCCXFdKGx8RBPZl7-Qu17-LkQ/photo/AF1QipP3s1RI8y6lk6xoUXAu3TVjUkhz25VQN17D6W5H\"><div><div></div><div></div></div></a>",
                 "免费领取",
+                "<img src=\"paste-37f8105cbc1faf256e71a3b3e4535b286dcdbeb0.jpg\"><a href=\"https://photos.google.com/share/AF1QipO0jCaPHfD-R59IyLNHfXqzj0j_oNG12kijGkaBWGCCXFdKGx8RBPZl7-Qu17-LkQ/photo/AF1QipP3s1RI8y6lk6xoUXAu3TVjUkhz25VQN17D6W5H\"><div><div></div><div></div></div></a>",
                 "miǎnfèi lǐngqǔ",
                 "free draw",
                 "",
@@ -183,8 +183,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-37f8105cbc1faf256e71a3b3e4535b286dcdbeb0.jpg\">",
                 "免费",
+                "<img src=\"paste-37f8105cbc1faf256e71a3b3e4535b286dcdbeb0.jpg\">",
                 "miǎnfèi",
                 "free",
                 "免费领取",
@@ -199,8 +199,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-ae1d6c16a811a74bf140d02b1679748a3c6decbf.jpg\">",
                 "超值",
+                "<img src=\"paste-ae1d6c16a811a74bf140d02b1679748a3c6decbf.jpg\">",
                 "chāozhí",
                 "extra value",
                 "超值礼包",
@@ -215,8 +215,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "<img src=\"paste-4edb6f1a71bacaaffc9fe81522ee9eaf1c8d2ad3.jpg\">",
                 "豪华",
+                "<img src=\"paste-4edb6f1a71bacaaffc9fe81522ee9eaf1c8d2ad3.jpg\">",
                 "háohuá",
                 "luxurious; sumptuous; splendid",
                 "豪华礼包",
