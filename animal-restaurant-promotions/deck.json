@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "0584e1b0-1654-11eb-a785-acde48001122",
-    "deck_config_uuid": "0584e584-1654-11eb-a785-acde48001122",
+    "crowdanki_uuid": "a00930a6-1672-11eb-bff9-acde48001122",
+    "deck_config_uuid": "a00934ac-1672-11eb-bff9-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "0584e584-1654-11eb-a785-acde48001122",
+            "crowdanki_uuid": "a00934ac-1672-11eb-bff9-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -64,7 +64,7 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.translation {\nmargin-top: 16px;\n}",
             "flds": [
                 {
-                    "font": "Arial",
+                    "font": "Liberation Sans",
                     "name": "Image",
                     "ord": 0,
                     "rtl": false,
@@ -118,6 +118,15 @@
                     "rtl": false,
                     "size": 20,
                     "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Audio",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",
@@ -130,7 +139,8 @@
                     "any",
                     [
                         0,
-                        1
+                        1,
+                        7
                     ]
                 ]
             ],
@@ -146,10 +156,11 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Simplified}}<br/>\n{{Image}}"
+                    "qfmt": "{{Simplified}}\n<br/>\n{{Audio}}\n<br/>\n{{Image}}\n"
                 }
             ],
-            "type": 0
+            "type": 0,
+            "vers": []
         }
     ],
     "notes": [
@@ -160,6 +171,7 @@
                 "免费领取",
                 "miǎnfèi lǐngqǔ",
                 "free draw",
+                "",
                 "",
                 "",
                 ""
@@ -177,7 +189,8 @@
                 "free",
                 "免费领取",
                 "miǎnfèilǐngqǔ",
-                "free draw"
+                "free draw",
+                ""
             ],
             "guid": "E:rfhCX-8o",
             "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
@@ -192,7 +205,8 @@
                 "extra value",
                 "超值礼包",
                 "chāozhí lǐbāo",
-                "extra value gift pack"
+                "extra value gift pack",
+                ""
             ],
             "guid": "K,5jb>J>+d",
             "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
@@ -207,7 +221,8 @@
                 "luxurious; sumptuous; splendid",
                 "豪华礼包",
                 "háohuá lǐbāo",
-                "luxury gift pack"
+                "luxury gift pack",
+                ""
             ],
             "guid": "fS,)h4>7YT",
             "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",

@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "f116fe36-1656-11eb-a785-acde48001122",
-    "deck_config_uuid": "f11702c8-1656-11eb-a785-acde48001122",
+    "crowdanki_uuid": "3747730c-1672-11eb-bff9-acde48001122",
+    "deck_config_uuid": "37477820-1672-11eb-bff9-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "f11702c8-1656-11eb-a785-acde48001122",
+            "crowdanki_uuid": "37477820-1672-11eb-bff9-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -63,7 +63,7 @@
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.translation {\nmargin-top: 16px;\n}",
             "flds": [
                 {
-                    "font": "Arial",
+                    "font": "Liberation Sans",
                     "name": "Image",
                     "ord": 0,
                     "rtl": false,
@@ -117,19 +117,29 @@
                     "rtl": false,
                     "size": 20,
                     "sticky": false
+                },
+                {
+                    "font": "Liberation Sans",
+                    "media": [],
+                    "name": "Audio",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-19625",
             "req": [
                 [
                     0,
                     "any",
                     [
                         0,
-                        1
+                        1,
+                        7
                     ]
                 ]
             ],
@@ -145,10 +155,11 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Simplified}}<br/>\n{{Image}}"
+                    "qfmt": "{{Simplified}}\n<br/>\n{{Audio}}\n<br/>\n{{Image}}\n"
                 }
             ],
-            "type": 0
+            "type": 0,
+            "vers": []
         }
     ],
     "notes": [
@@ -161,6 +172,7 @@
                 "calculate; figure; plan",
                 "划算，好吃，下次还点你们家",
                 "huásuàn, hǎochī, xiàcì háidiǎn nǐmen jiā",
+                "",
                 ""
             ],
             "guid": "b5M.N4G$J,",
@@ -175,7 +187,8 @@
                 "měiwèi",
                 "delicious; dainty",
                 "狼<div>好久都没有这么开心了，你们的食物真的太美味啦！</div>",
-                "",
+                "Láng<br>Hǎojiǔ dōu méiyǒu zhème kāixīnle, nǐmen de shíwù zhēn de tài měiwèi la!<br>",
+                "Wolf<br>It's been a long time since I was so happy, your food is really delicious!<br>",
                 ""
             ],
             "guid": "bm9m7%_,AD",
