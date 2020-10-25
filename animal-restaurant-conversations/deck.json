@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "3747730c-1672-11eb-bff9-acde48001122",
-    "deck_config_uuid": "37477820-1672-11eb-bff9-acde48001122",
+    "crowdanki_uuid": "80ad9050-1675-11eb-bff9-acde48001122",
+    "deck_config_uuid": "80ad941a-1675-11eb-bff9-acde48001122",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "37477820-1672-11eb-bff9-acde48001122",
+            "crowdanki_uuid": "80ad941a-1675-11eb-bff9-acde48001122",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -53,7 +53,8 @@
     "extendRev": 0,
     "media_files": [
         "paste-053b618a5a053bdbd676e530c9474c23816e8728.jpg",
-        "paste-93e058946636ff506e4e7e740125705ebcc07819.jpg"
+        "paste-93e058946636ff506e4e7e740125705ebcc07819.jpg",
+        "paste-a61165b3d70d72c0e1763745ddcfe9b1de219bbb.jpg"
     ],
     "name": "animal-restaurant-conversations",
     "note_models": [
@@ -192,6 +193,22 @@
                 ""
             ],
             "guid": "bm9m7%_,AD",
+            "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-a61165b3d70d72c0e1763745ddcfe9b1de219bbb.jpg\"><a href=\"https://photos.google.com/share/AF1QipO0jCaPHfD-R59IyLNHfXqzj0j_oNG12kijGkaBWGCCXFdKGx8RBPZl7-Qu17-LkQ/photo/AF1QipPbiWxxv8AGwnfX7Re3evgjzD9Wqs8phfZpeRbL\"><div><div></div><div></div></div></a>",
+                "连续",
+                "liánxù",
+                "continuously",
+                "喵，您已经连续在线超过一个小时，记得注意休息哦！<br>行吧",
+                "Miāo, nín yǐjīng liánxù zàixiàn chāoguò yīgè xiǎoshí, jìdé zhùyì xiūxí ó!<div>Xíng ba<br></div>",
+                "Meow, you have been online for more than an hour, remember to take a break!<br>Ok",
+                ""
+            ],
+            "guid": "u,-(+>O|,R",
             "note_model_uuid": "b174f4c4-164a-11eb-8139-acde48001122",
             "tags": []
         }
